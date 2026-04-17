@@ -1,0 +1,20 @@
+{
+  "pcs": [
+    {
+      "id": 1,
+      "nom": "Gaming PC",
+      "composants": [
+        { "nom": "RTX 4070", "categorie": "GPU", "prix": 600 },
+        { "nom": "Intel i7-13700K", "categorie": "CPU", "prix": 350 }
+      ]
+    },
+    {
+      "id": 2,
+      "nom": "PC Bureautique",
+      "composants": [
+        { "nom": "Intel i5-12400", "categorie": "CPU", "prix": 200 },
+        { "nom": "16Go DDR4", "categorie": "RAM", "prix": 60 }
+      ]
+    }
+  ]
+}
